@@ -3,8 +3,8 @@ title: Ledger Blog # your site title
 author: CharlesLedger
 description: > # Meta description of Homepage
    The latest news about technology and engineering at Ledger.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://blog.ledger.com/"
+baseurl: "/LedgerHQ.github.io" # the subpath of your site, e.g. /blog
+url: "https://dud225.github.io"
 
 # SEO PLUGIN
 social:
